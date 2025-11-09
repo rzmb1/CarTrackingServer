@@ -1,0 +1,7 @@
+PATCH http://localhost:8080/my-car-server/cars/11
+Content-Type: application/json
+
+{
+  "title": "neuer titel",
+  "author": "neuer autor"
+}
